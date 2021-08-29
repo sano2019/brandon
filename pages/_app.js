@@ -1,4 +1,5 @@
-import App from 'next/app'
+// import App from 'next/app'
+import '../styles/index.js'
 
 function MyApp({ Component, pageProps }) {
     return <Component {...pageProps} />
